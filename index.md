@@ -17,6 +17,5 @@
 </script>
 <div class="fb-customerchat"
   page_id="<383211722522481>"
-  ref="<OPTIONAL_WEBHOOK_PARAM>"
   minimized="<true|false>">
 </div>
